@@ -1,5 +1,6 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky096&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/lucky096/lucky096)
-<a href="https://www.linkedin.com/in/lucky-srivastava-57265597/"><img src="profile_linkedin.png" alt="linkedin" height="170"/></a>
+<!-- <a href="https://www.linkedin.com/in/lucky-srivastava-57265597/"><img src="profile_linkedin.png" alt="linkedin" height="147"/></a> -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky096&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&bg_color=31313A&line_height=27)](https://github.com/lucky096/lucky096)
+<a href="https://github.com/lucky096/lucky096"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky096&hide=css,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=31313A&langs_count=3&hide_border=true" /></a>
 
 <br>
 
